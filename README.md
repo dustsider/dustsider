@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dustsider
 - 👀 I’m interested in LLMs, ML, healthcare, biotechnology, and improving on programming efficiency 
-- 🌱 I’m currently learning ... Python, JavaScript
+- 🌱 I’m currently learning ... Python, JavaScript, SQL, R, Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
